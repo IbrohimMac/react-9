@@ -1,0 +1,16 @@
+.head {
+  background-color: #109be9;
+  display: flex;
+  gap: 35px;
+  padding-left: 174px;
+  height: 72px;
+  align-items: center;
+  p {
+    color: white;
+    cursor: pointer;
+  }
+  p:hover {
+    color: red;
+    transition: 0.5s;
+  }
+}
